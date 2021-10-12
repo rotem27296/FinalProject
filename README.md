@@ -1,9 +1,9 @@
 ### Final Project
 Final Project for college course
 
-### Software prerequisites
-
 ### How to run?
+ Software prerequisites
+
 Install the below tools/packages
 
 | Serial No   | Software           | Version   | Installation site |
