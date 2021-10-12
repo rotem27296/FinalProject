@@ -1,5 +1,8 @@
 ### Software prerequisites
+Final Project
+Final Project for college course
 
+How to run?
 Install the below tools/packages
 
 | Serial No   | Software           | Version   | Installation site |
